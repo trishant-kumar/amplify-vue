@@ -37,13 +37,13 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 ### Project Setup
 
-`Clone URL : https://github.com/vue-simform/primeUI-vite-vue-ts-boilerplate.git`
+`Clone URL : https://github.com/vue-simform/amplify-vue.git`
 
 Clone repo using HTTP or SSH method.
 
 To use SSH method, please [Follow this tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
-To use HTTP method, developer has to pass username in git clone url like this `https://{username}@github.com:vue-simform/primeUI-vite-vue-ts-boilerplate.git`
+To use HTTP method, developer has to pass username in git clone url like this `https://{username}@github.com:vue-simform/amplify-vue.git`
 It will promte for application password that you can generate from [here](https://github.com/settings/tokens)
 
 run `npm i` command
