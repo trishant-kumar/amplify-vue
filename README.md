@@ -9,7 +9,7 @@ The stack of this boilerplate is focused on web app front end, therefore I’ll 
 - update readme file to remove/add project related documenation.
 - update `name` key in `package.json` file
 - update git remote using `git remote set-url origin new.git.url/here` command
-- [Demo](#demo) section from this file
+- [Demo](https://dev.d4mpru5o2tc5l.amplifyapp.com/) section from this file
 - remove unnecessary files.
 
 
